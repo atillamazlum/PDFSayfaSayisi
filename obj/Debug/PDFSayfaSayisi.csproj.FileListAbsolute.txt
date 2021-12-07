@@ -1,0 +1,13 @@
+C:\K2B\source\repos\PDFSayfaSayisi\PDFSayfaSayisi\obj\Debug\PDFSayfaSayisi.csproj.AssemblyReference.cache
+C:\K2B\source\repos\PDFSayfaSayisi\PDFSayfaSayisi\obj\Debug\PDFSayfaSayisi.Form1.resources
+C:\K2B\source\repos\PDFSayfaSayisi\PDFSayfaSayisi\obj\Debug\PDFSayfaSayisi.Properties.Resources.resources
+C:\K2B\source\repos\PDFSayfaSayisi\PDFSayfaSayisi\obj\Debug\PDFSayfaSayisi.csproj.GenerateResource.cache
+C:\K2B\source\repos\PDFSayfaSayisi\PDFSayfaSayisi\obj\Debug\PDFSayfaSayisi.csproj.CoreCompileInputs.cache
+C:\K2B\source\repos\PDFSayfaSayisi\PDFSayfaSayisi\bin\Debug\PDFSayfaSayisi.exe.config
+C:\K2B\source\repos\PDFSayfaSayisi\PDFSayfaSayisi\bin\Debug\PDFSayfaSayisi.exe
+C:\K2B\source\repos\PDFSayfaSayisi\PDFSayfaSayisi\bin\Debug\PDFSayfaSayisi.pdb
+C:\K2B\source\repos\PDFSayfaSayisi\PDFSayfaSayisi\bin\Debug\BouncyCastle.Crypto.dll
+C:\K2B\source\repos\PDFSayfaSayisi\PDFSayfaSayisi\bin\Debug\itextsharp.dll
+C:\K2B\source\repos\PDFSayfaSayisi\PDFSayfaSayisi\bin\Debug\itextsharp.xml
+C:\K2B\source\repos\PDFSayfaSayisi\PDFSayfaSayisi\obj\Debug\PDFSayfaSayisi.exe
+C:\K2B\source\repos\PDFSayfaSayisi\PDFSayfaSayisi\obj\Debug\PDFSayfaSayisi.pdb
